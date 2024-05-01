@@ -4,6 +4,7 @@
 >
 #### Onde me achar🔎: <h4>
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:jonasrafa07@gmail.com)
+[![Linkedin: Jonas Rafael](https://img.shields.io/badge/-Jonas%20Rafael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/jonas-rafael-182b85209/)
 
 #### 👨‍💻 Linguagens / Frameworks / Tecnologias / Ferramentas  🛠 <h4>
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
