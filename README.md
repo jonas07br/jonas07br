@@ -21,6 +21,7 @@
 
 #### 📚Estudando atualmente: <h4>
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 #### 🔬Minhas estatisticas do GitHub: <h4>
 [![Linguagens](https://github-readme-stats.vercel.app/api?username=jonas07br&show_icons=true&locale=pt-BR&&theme=dark)](https://github.com/jonas07br?tab=repositories)
